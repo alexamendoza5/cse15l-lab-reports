@@ -1,4 +1,4 @@
 ## Lab Report 1
 
-** cd example **
+**cd example**
 ![Image](cdEx.png)
