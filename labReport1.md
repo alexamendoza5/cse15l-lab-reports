@@ -19,7 +19,7 @@
 3. When entering ls with a path to the lecture1 directory (argument) in the home directory (cwd), the files and folders of the lecture1 get listed. 
 ![Image](lsDir.jpeg)
 
-5. Entering ls with a path to a file (argument) will only list itself since it does not have any files or folders but this does not cause an error. 
+5. Entering ls with a path to a file (argument) will only list itself since it does not have any files or folders but this does not cause an error.
 ![Image](lsFile.jpeg)
 
 **cat example**
