@@ -13,13 +13,13 @@
 
 **ls example**
 
-1. Entering ls with no argument will list the files and folders that are in the current working directory. In this example, only lecture1 is in the home directory.
+1. Entering ls with no argument will list the files and folders that are in the current working directory. In this example, only lecture1 is in the home directory. 
 ![Image](lsNoArg.jpeg)
 
-2. When entering ls with a path to the lecture1 directory (argument) in the home directory (cwd), the files and folders of the lecture1 get listed.
+2. When entering ls with a path to the lecture1 directory (argument) in the home directory (cwd), the files and folders of the lecture1 get listed. 
 ![Image](lsDir.jpeg)
 
-3. Entering ls with a path to a file (argument) will only list itself since it does not have any files or folders but this does not cause an error.
+3. Entering ls with a path to a file (argument) will only list itself since it does not have any files or folders but this does not cause an error. 
 ![Image](lsFile.jpeg)
 
 **cat example**
