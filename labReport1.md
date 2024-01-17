@@ -5,18 +5,18 @@
 1. Entering cd with no argument does nothing because there is no directory that the current working one can change to. Since this doesn't cause an error, the terminal continues as is.
 ![Image](cdNoArg.jpeg)
 
-2. When entering cd with a path to the lecture1 directory (argument) in the home directory (cwd), we change from home to lecture1. 
+2. When entering cd with a path to the lecture1 directory (argument) in the home directory (cwd), we change from home to lecture1.
 ![Image](cdDir.jpeg)
 
-3. If you enter cd with a path to any file (argument) it causes an error because cd only takes directories as arguments. 
+4. If you enter cd with a path to any file (argument) it causes an error because cd only takes directories as arguments. 
 ![Image](cdFile.jpeg)
 
 **ls example**
 
-1. Entering ls with no argument will list the files and folders that are in the current working directory. In this example, only lecture1 is in the home directory. 
+1. Entering ls with no argument will list the files and folders that are in the current working directory. In this example, only lecture1 is in the home directory.
 ![Image](lsNoArg.jpeg)
 
-2. When entering ls with a path to the lecture1 directory (argument) in the home directory (cwd), the files and folders of the lecture1 get listed. 
+2. When entering ls with a path to the lecture1 directory (argument) in the home directory (cwd), the files and folders of the lecture1 get listed.
 ![Image](lsDir.jpeg)
 
 3. Entering ls with a path to a file (argument) will only list itself since it does not have any files or folders but this does not cause an error.
