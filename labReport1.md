@@ -30,7 +30,7 @@
 ![Image](catNoArg.jpeg)
 
 2. When entering cat with paths to a directory (arguments) in the lecture1 directory (cwd), the terminal lets us know that the arguments are directories and not much can be done with its contents since they aren't files. This isn't an error but it doesn't concatenate the contents of directories like it would with files.
-![Image](catDir.jpeg)
+![Image](catWDir.png)
 
 3. Entering cat with paths to a file (arguments) in the lecture1 directory (cwd) print the concatenated content of the two files. No errors here!
 ![Image](catFile.jpeg)
